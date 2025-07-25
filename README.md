@@ -1,8 +1,4 @@
-Absolutely! Here's the **complete and clean `README.md`** Markdown — you can directly copy-paste this into your GitHub project:
 
----
-
-````markdown
 # 📦 Inventory Optimization Recommendation System
 
 ## 📝 Project Overview
